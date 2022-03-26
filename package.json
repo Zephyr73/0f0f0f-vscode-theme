@@ -1,6 +1,6 @@
 {
-    "name": "mountain",
-    "displayName": "#F0F0F0",
+    "name": "0f0f0f",
+    "displayName": "#0F0F0F",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Mountain",
+                "label": "0F0F0F",
                 "uiTheme": "vs-dark",
                 "path": "./themes/f0f0f0-color-theme.json"
             }
