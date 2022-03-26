@@ -6,5 +6,5 @@ I have used the grayscale pallette from [Mountain-Fuji](https://github.com/mount
 **Enjoy!**
 
 # Screenshots:
-![Pyhton Workspace](/f0f0f0.png?raw=true)
+![Pyhton Workspace](/0f0f0f.png?raw=true)
 Font used: [Iosevka](https://github.com/be5invis/Iosevka)
